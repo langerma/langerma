@@ -1,5 +1,75 @@
-<h2>Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=langerma&theme=radical&show_icons=true&include_all_commits=true&count_private=true&line_height=28" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=langerma&layout=compact&theme=radical&card_width=250&langs_count=10" align="right">
-</p>
+<!-- GITHUB-STATS:START -->
+```
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║                GitHub Statistics Dashboard                 ║
+║                         @langerma                          ║
+║                                                            ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║                   Repository Statistics                    ║
+║                                                            ║
+║  Total Stars ......... 8                                   ║
+║  Total Forks ......... 5                                   ║
+║  Total Repos ......... 110                                 ║
+║  Public Repos ........ 110                                 ║
+║                                                            ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║                     Social Statistics                      ║
+║                                                            ║
+║  Followers ........... 14                                  ║
+║  Following ........... 27                                  ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║                    Most Used Languages                     ║
+║                                                            ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  Shell        █████████░░░░░░░░░░░░░░░░  37.0%             ║
+║  Python       ██████░░░░░░░░░░░░░░░░░░░  25.9%             ║
+║  Jinja        ██░░░░░░░░░░░░░░░░░░░░░░░   7.4%             ║
+║  Dockerfile   ██░░░░░░░░░░░░░░░░░░░░░░░   7.4%             ║
+║  Java         █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%             ║
+║  Ruby         █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%             ║
+║  C++          █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%             ║
+║  Clojure      █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%             ║
+║  Puppet       █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%             ║
+║  Lua          █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%             ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║                    Statistics Overview                     ║
+║                                                            ║
+╠════════════════════════════════════════════════════════════╣
+║                    ████                                    ║
+║                    ████                                    ║
+║                    ████                                    ║
+║                    ████                                    ║
+║                    ████                                    ║
+║                    ████                                    ║
+║                    ████                                    ║
+║                    ████                                    ║
+║                    ████                                    ║
+║    ████            ████    ████                            ║
+║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━    ║
+║  Stars   Forks   Repos   Follow                            ║
+║  8       5       110     14                                ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+
+---
+*Last updated: Thu, 04 Dec 2025 18:52:34 GMT*
+*Generated automatically by GitHub Actions*
+
+```
+<!-- GITHUB-STATS:END -->
+
+
+
+# GitHub Statistics
